@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450"
+   height="450"
+   viewBox="0 0 119.0625 119.0625"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="hero-rect-circ.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="61.818291"
+     inkscape:cy="196.4667"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-page="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rectangles">
+    <rect
+       style="fill:#fe08ff;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="rect932"
+       width="39.687496"
+       height="39.6875"
+       x="0.021942139"
+       y="39.6875"
+       rx="5.2916665" />
+    <rect
+       style="fill:#0d9eff;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="rect932-3"
+       width="39.687496"
+       height="39.6875"
+       x="39.70945"
+       y="1.9073486e-06"
+       rx="5.2916665" />
+    <rect
+       style="fill:#0c3ae8;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="rect932-3-3"
+       width="39.687496"
+       height="39.6875"
+       x="79.396942"
+       y="39.687504"
+       rx="5.2916665" />
+    <circle
+       style="fill:#fe08ff;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="path974"
+       cx="99.240692"
+       cy="19.84375"
+       r="19.84375" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="path974-5"
+       cx="59.553192"
+       cy="59.53125"
+       r="19.84375" />
+    <circle
+       style="fill:#0d9eff;fill-opacity:1;fill-rule:evenodd;stroke:#090911;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:fill markers stroke"
+       id="path974-1"
+       cx="99.2407"
+       cy="99.21875"
+       r="19.84375" />
+  </g>
+</svg>
